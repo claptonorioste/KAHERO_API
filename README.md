@@ -8,7 +8,7 @@ This guide covers authentication and the most common queries/mutations for integ
 
 | Setting | Value |
 |--------|--------|
-| **Endpoint** | `POST https://<your-graphql-host>/` |
+| **Endpoint** | `POST https://graphql.kahero.co/` |
 | **Content-Type** | `application/json` |
 | **Auth (protected operations)** | `Authorization: Bearer <token>` |
 
